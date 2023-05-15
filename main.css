@@ -39,6 +39,9 @@ header li a {
   width: 100%;
   margin: 0 auto;
 }
+ul{
+    list-style: none;
+}
 header .container{
   display: flex;
   margin: auto;
